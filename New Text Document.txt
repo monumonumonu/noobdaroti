@@ -1,0 +1,3 @@
+{ ip: MONUGAMING123XXX.aternos.me
+  port:29479
+  name:ghochu
